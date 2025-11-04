@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --mwp-navy: #003A5D; }
+body { @apply bg-gray-50 text-gray-900; }
